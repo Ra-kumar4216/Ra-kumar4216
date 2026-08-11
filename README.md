@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hey! I'm Ratan — a Software Engineer & Java Full Stack Dev who loves turning ideas into real-world apps, Website.<br>⚙️ My stack: Java • Spring Boot • REST APIs • MySQL • React (learning)<br>🤖 Into AI/GenAI, open-source, and shipping clean code. Always building, always learning!<br><br>🤝 Open to collabs & opportunities — let's build something cool!<br>🌐 protfolio-taupe.vercel.app
+👋 Hey! I'm Ratan — a Software Engineer specializing in Java full-stack development — Spring Boot, REST APIs, and MySQL. Building Mehta AI, a full-stack AI chat assistant (Flask, Supabase, Groq), and TaskManagement3, a Spring Boot task tracker with JWT auth and RBAC. Completed 4 internships across Java, Python, and full-stack development — seeking a Software Engineer / Full Stack Developer role.
+
+Portfolio: ratankumar-portfolio.vercel.app
+GitHub: github.com/Ra-kumar4216
 
 
 ## 🌐 Socials:
